@@ -3,3 +3,4 @@ my name is takamasa
 
 can i upload this file?
 
+checkout will change this file contents??
